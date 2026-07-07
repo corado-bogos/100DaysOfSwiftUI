@@ -53,7 +53,7 @@ The course is organized into the official **sections** from
 
 | #  | Section | Days | Focus | Status |
 | :-: | ------- | :--: | ----- | :----: |
-| 1  | Introduction to Swift | [1–14](./Days/Day001/) | Swift language fundamentals + checkpoints 1–9 | ⬜ Not started |
+| 1  | Introduction to Swift | [1–14](./Days/Day001/) | Swift language fundamentals + checkpoints 1–9 |  🟨 In progress |
 | 2  | Consolidation I | [15](./Days/Day015/) | Swift review | ⬜ Not started |
 | 3  | Starting SwiftUI | [16–24](./Days/Day016/) | Projects 1–3 + challenge day | ⬜ Not started |
 | 4  | Consolidation II | [25](./Days/Day025/) | Milestone: Projects 1–3 | ⬜ Not started |
