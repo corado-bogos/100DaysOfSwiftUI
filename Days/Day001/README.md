@@ -2,40 +2,41 @@
 
 > Part of my [100 Days of SwiftUI](../../README.md) journey.
 
-**Date:** YYYY-MM-DD
+**Date:** 2026-07-06
 
 ---
 
 ## 📚 Topics Learned
 
 <!-- List the concepts covered today -->
--
--
--
+- variables
+- constants
+- strings
+- integers
+- doubles
 
 ## 🛠️ What I Built
 
-<!-- Describe the app, project, or exercises you built. Include code snippets if helpful. -->
-
-
+I learned that variables and constants always have a value.  A variable’s value can be changed but a constant’s cannot. I also learned how to assign strings to variables or constants and how to create multi-line strings.  Furthermore, I discovered that integers are whole numbers while doubles are decimal numbers.  Consequently, I can’t perform calculations involving whole numbers and decimals.
 
 ## 🧗 Challenges
 
-<!-- What was difficult? Any bugs, blockers, or things that took a while to click? -->
+It was difficult to understand why Swift couldn’t calculate integers and doubles together.  Furthermore, when I try to add 0.1 and 0.2, I get a huge number: 0.30000000000000004.  Why is there a 4 when the numbers are complete?
 
 
 
 ## 💡 What I Learned
 
-<!-- Your key takeaways in your own words. -->
+For now, I understood how Swift works and ensuring it stays safe rather than simple. I realised it’s much more modern than other programming languages I’ve used before.
 
 
 
 ## 📸 Screenshots
 
-<!-- Add screenshots to the ./images/ folder and reference them here. -->
-
-<!-- ![Description](./images/screenshot.png) -->
+![Variables & Constants](images/variables%20%26%20constants.png)
+![Strings](images/strings.png)
+![Integers](images/integers.png)
+![Doubles](images/doubles.png)
 
 ## 🔗 Resources
 
@@ -44,5 +45,4 @@
 
 ## 🎯 Next Goals
 
-<!-- What do you want to tackle next? -->
--
+My next goal is to push myself further and maintain my swift and sharp memory.
