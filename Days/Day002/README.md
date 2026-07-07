@@ -2,47 +2,33 @@
 
 > Part of my [100 Days of SwiftUI](../../README.md) journey.
 
-**Date:** YYYY-MM-DD
+**Date:** 2026-07-07
 
 ---
 
 ## 📚 Topics Learned
 
-<!-- List the concepts covered today -->
--
--
--
+- booleans
+- string interpolation
 
 ## 🛠️ What I Built
 
-<!-- Describe the app, project, or exercises you built. Include code snippets if helpful. -->
-
-
-
-## 🧗 Challenges
-
-<!-- What was difficult? Any bugs, blockers, or things that took a while to click? -->
-
-
+I created a temperature converter from Celsius to Fahrenheit by calculating (Celsius * 9) / 5 + 32.
 
 ## 💡 What I Learned
 
-<!-- Your key takeaways in your own words. -->
-
-
+I learned how to create and use booleans and understood their purpose.  I also discovered how to connect two strings and write strings containing variables or constants.
 
 ## 📸 Screenshots
 
-<!-- Add screenshots to the ./images/ folder and reference them here. -->
-
-<!-- ![Description](./images/screenshot.png) -->
+![Booleans](./images/1.%20booleans.jpg)
+![String Interpolation](./images/2.%20string%20interpolation.jpg)
+![Checkpoint 1](./images/Checkpoint%201.jpg)
 
 ## 🔗 Resources
 
-<!-- Links to the lesson, docs, articles, or videos you used. -->
 - [100 Days of SwiftUI — Day 2](https://www.hackingwithswift.com/100/swiftui/2)
 
 ## 🎯 Next Goals
 
-<!-- What do you want to tackle next? -->
--
+My next goal is to complete my lessons promptly and never be late again.
