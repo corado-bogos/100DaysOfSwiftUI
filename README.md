@@ -78,14 +78,16 @@ The course is organized into the official **sections** from
 
 ## 🧰 Technologies I'll Learn
 
-- **Swift** — the core language (types, optionals, closures, protocols, generics)
-- **SwiftUI** — declarative UI framework for building interfaces
-- **Xcode** — Apple's IDE, including the simulator and previews
-- **State management** — `@State`, `@Binding`, `@ObservedObject`, `@StateObject`, `@EnvironmentObject`
-- **MVVM** — the Model–View–ViewModel architecture pattern
-- **Data & persistence** — `Codable`, `UserDefaults`, and **Core Data**
-- **Networking** — `URLSession` and working with JSON APIs
-- **Swift Package Manager** — managing dependencies
+- **Swift** — the core language (types, optionals, closures, structs, classes, protocols & extensions)
+- **SwiftUI** — Apple's declarative UI framework for building interfaces
+- **Xcode** — Apple's IDE, including the simulator and live previews
+- **State management** — `@State`, `@Binding`, the `@Observable` macro, `@Environment`, and `@Bindable`
+- **SwiftData** — Apple's modern framework for storing and querying app data
+- **Data & persistence** — `Codable`, `UserDefaults`, and `@AppStorage`
+- **Networking** — `URLSession` with `async`/`await` and working with JSON APIs
+- **Architecture** — structuring larger apps cleanly (including MVVM)
+- **Apple frameworks** — Core Image (photo filters) and MapKit
+- **Accessibility** — building apps everyone can use (VoiceOver, Dynamic Type, and more)
 - **Animations & gestures** — bringing interfaces to life
 
 ---
@@ -103,15 +105,12 @@ The course is organized into the official **sections** from
 │   ├── Screenshots/       # Shared screenshots
 │   └── Assets/            # Shared images & assets
 │
-├── Days/
-│   ├── Day001/
-│   │   ├── README.md      # Daily log (from the template)
-│   │   └── images/        # Screenshots for that day
-│   ├── Day002/
-│   └── ...
-│
-└── Templates/
-    └── DayTemplate.md     # Reusable daily log template
+└── Days/
+    ├── Day001/
+    │   ├── README.md      # Daily log (from the template)
+    │   └── images/        # Screenshots for that day
+    ├── Day002/
+    └── ...
 ```
 
 ---
@@ -130,9 +129,7 @@ The course is organized into the official **sections** from
 ## 🔗 Links
 
 - 🐦 **Notion tracker (public):** [100 Days of SwiftUI](https://calico-palladium-bcd.notion.site/100-Days-of-SwiftUI-3950f139757781409106ceecf2eae12d)
-- 🐦 **X:** [@username](#) <!-- Add your X profile link -->
-- 💼 **LinkedIn:** [My LinkedIn](#) <!-- Add your LinkedIn profile link -->
-- 🐙 **GitHub:** [corado-bogos](https://github.com/corado-bogos)
+- 🐦 **X:** https://x.com/corado_corrado
 
 ---
 
