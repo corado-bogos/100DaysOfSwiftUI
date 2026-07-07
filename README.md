@@ -3,7 +3,6 @@
 ![Swift](https://img.shields.io/badge/Swift-5-orange?logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-Framework-blue?logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-IDE-147EFB?logo=xcode&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-0%25-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 > My public learning journal for Paul Hudson's **[100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)** course.
