@@ -32,11 +32,10 @@ For now, I understood how Swift works and ensuring it stays safe rather than sim
 
 
 ## 📸 Screenshots
-
-![Variables & Constants](images/variables%20%26%20constants.png)
-![Strings](images/strings.png)
-![Integers](images/integers.png)
-![Doubles](images/doubles.png)
+![Variables & Constants](./images/1.%20variables%20%26%20constants.jpeg)
+![Strings](./images/2.%20strings.jpeg)
+![Integers](./images/3.%20integers.jpeg)
+![Doubles](./images/4.%20doubles.jpeg)
 
 ## 🔗 Resources
 
