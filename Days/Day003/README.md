@@ -2,47 +2,36 @@
 
 > Part of my [100 Days of SwiftUI](../../README.md) journey.
 
-**Date:** YYYY-MM-DD
+**Date:** 2026-07-06
 
 ---
 
 ## 📚 Topics Learned
-
-<!-- List the concepts covered today -->
--
--
--
-
-## 🛠️ What I Built
-
-<!-- Describe the app, project, or exercises you built. Include code snippets if helpful. -->
-
-
+- Arrays
+- Dictionaries
+- Sets
+- Enums
 
 ## 🧗 Challenges
 
-<!-- What was difficult? Any bugs, blockers, or things that took a while to click? -->
-
-
+Remembering and writing the code was difficult but reading and understanding it was simple.
 
 ## 💡 What I Learned
 
-<!-- Your key takeaways in your own words. -->
-
-
+I learned about arrays, dictionaries, sets, enums and their differences. I also improved my string writing skills by learning how to store more strings in a single variable.
 
 ## 📸 Screenshots
 
-<!-- Add screenshots to the ./images/ folder and reference them here. -->
-
-<!-- ![Description](./images/screenshot.png) -->
+![Arrays](./images/1-arrays.jpeg)
+![Arrays](./images/1-arrays-2.jpeg)
+![Dictionaries](./images/2-dictionaries.jpeg)
+![Sets](./images/3-sets.jpeg)
+![Enums](./images/4-enums.jpeg)
 
 ## 🔗 Resources
 
-<!-- Links to the lesson, docs, articles, or videos you used. -->
 - [100 Days of SwiftUI — Day 3](https://www.hackingwithswift.com/100/swiftui/3)
 
 ## 🎯 Next Goals
 
-<!-- What do you want to tackle next? -->
--
+My next goal is to stay focussed on this topic because it’s important to master it completely.
