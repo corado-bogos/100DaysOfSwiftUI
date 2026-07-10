@@ -2,47 +2,35 @@
 
 > Part of my [100 Days of SwiftUI](../../README.md) journey.
 
-**Date:** YYYY-MM-DD
+**Date:** 2026-07-10
 
 ---
 
 ## 📚 Topics Learned
 
-<!-- List the concepts covered today -->
--
--
--
+- type annotations
 
 ## 🛠️ What I Built
 
-<!-- Describe the app, project, or exercises you built. Include code snippets if helpful. -->
-
-
+I had to create an array of strings, then to write some code that prints the number of items in the array and also the number of unique items in the array.
 
 ## 🧗 Challenges
 
-<!-- What was difficult? Any bugs, blockers, or things that took a while to click? -->
-
-
+I've found it difficult to remember a lots of things, but Paul said multiple times that is not a problem and we should practice further.
 
 ## 💡 What I Learned
 
-<!-- Your key takeaways in your own words. -->
-
-
+I learned how to write type annotations so that Swift doesn't choose the type but it follows my rules.
 
 ## 📸 Screenshots
 
-<!-- Add screenshots to the ./images/ folder and reference them here. -->
-
-<!-- ![Description](./images/screenshot.png) -->
+![Type Annotations](./images/type-annotations.jpg)
+![Checkpoint 2](./images/checkpoint-2.jpg)
 
 ## 🔗 Resources
 
-<!-- Links to the lesson, docs, articles, or videos you used. -->
 - [100 Days of SwiftUI — Day 4](https://www.hackingwithswift.com/100/swiftui/4)
 
 ## 🎯 Next Goals
 
-<!-- What do you want to tackle next? -->
--
+My next goal is to keep practice to I learn new skills.
