@@ -37,8 +37,8 @@ Everything here reflects genuine progress — no shortcuts, no filler.
 
 | Metric            | Value        |
 | ----------------- | ------------ |
-| ✅ Days completed | **3 / 100**  |
-| 🔥 Current streak | **3 days**   |
+| ✅ Days completed | **4 / 100**  |
+| 🔥 Current streak | **4 days**   |
 | 📍 Current day    | **Day 4**    |
 
 > Progress is updated as I complete each day. Statuses below reflect exactly where I am right now.
