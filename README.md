@@ -39,7 +39,7 @@ Everything here reflects genuine progress — no shortcuts, no filler.
 | ----------------- | ------------ |
 | ✅ Days completed | **4 / 100**  |
 | 🔥 Current streak | **4 days**   |
-| 📍 Current day    | **Day 4**    |
+| 📍 Current day    | **Day 5**    |
 
 > Progress is updated as I complete each day. Statuses below reflect exactly where I am right now.
 
