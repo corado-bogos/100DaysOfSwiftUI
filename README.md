@@ -6,6 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 > My public learning journal for Paul Hudson's **[100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)** course.
+> > 🌴 **Currently on vacation** — daily progress is paused for now and will resume soon. Thanks for your patience!
 
 ---
 
